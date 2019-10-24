@@ -1,0 +1,7 @@
+C:\Users\Adminj\source\repos\kusanovicLenardPetlje\kusanovicLenardPetlje\obj\Debug\kusanovicLenardPetlje.csprojAssemblyReference.cache
+C:\Users\Adminj\source\repos\kusanovicLenardPetlje\kusanovicLenardPetlje\obj\Debug\kusanovicLenardPetlje.csproj.CoreCompileInputs.cache
+C:\Users\Adminj\source\repos\kusanovicLenardPetlje\kusanovicLenardPetlje\bin\Debug\kusanovicLenardPetlje.exe.config
+C:\Users\Adminj\source\repos\kusanovicLenardPetlje\kusanovicLenardPetlje\bin\Debug\kusanovicLenardPetlje.exe
+C:\Users\Adminj\source\repos\kusanovicLenardPetlje\kusanovicLenardPetlje\bin\Debug\kusanovicLenardPetlje.pdb
+C:\Users\Adminj\source\repos\kusanovicLenardPetlje\kusanovicLenardPetlje\obj\Debug\kusanovicLenardPetlje.exe
+C:\Users\Adminj\source\repos\kusanovicLenardPetlje\kusanovicLenardPetlje\obj\Debug\kusanovicLenardPetlje.pdb
