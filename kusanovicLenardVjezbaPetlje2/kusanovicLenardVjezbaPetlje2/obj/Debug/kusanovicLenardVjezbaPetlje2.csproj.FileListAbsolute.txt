@@ -1,0 +1,7 @@
+C:\Users\Adminj\source\repos\kusanovicLenardVjezbaPetlje2\kusanovicLenardVjezbaPetlje2\bin\Debug\kusanovicLenardVjezbaPetlje2.exe.config
+C:\Users\Adminj\source\repos\kusanovicLenardVjezbaPetlje2\kusanovicLenardVjezbaPetlje2\bin\Debug\kusanovicLenardVjezbaPetlje2.exe
+C:\Users\Adminj\source\repos\kusanovicLenardVjezbaPetlje2\kusanovicLenardVjezbaPetlje2\bin\Debug\kusanovicLenardVjezbaPetlje2.pdb
+C:\Users\Adminj\source\repos\kusanovicLenardVjezbaPetlje2\kusanovicLenardVjezbaPetlje2\obj\Debug\kusanovicLenardVjezbaPetlje2.csprojAssemblyReference.cache
+C:\Users\Adminj\source\repos\kusanovicLenardVjezbaPetlje2\kusanovicLenardVjezbaPetlje2\obj\Debug\kusanovicLenardVjezbaPetlje2.csproj.CoreCompileInputs.cache
+C:\Users\Adminj\source\repos\kusanovicLenardVjezbaPetlje2\kusanovicLenardVjezbaPetlje2\obj\Debug\kusanovicLenardVjezbaPetlje2.exe
+C:\Users\Adminj\source\repos\kusanovicLenardVjezbaPetlje2\kusanovicLenardVjezbaPetlje2\obj\Debug\kusanovicLenardVjezbaPetlje2.pdb
